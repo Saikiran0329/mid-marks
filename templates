@@ -1,0 +1,25 @@
+hi %%|name^{"inputtype" : "text", "maxlength" : "10"}%%,
+
+Reminder Says : " %%|content^{"inputtype" : "text", "maxlength" : "80"}%%".
+
+techways.in
+
+
+
+
+--------------------------------
+
+
+
+
+hi,
+
+Reminder Says : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+techways.in
+
+
+
+
+
+

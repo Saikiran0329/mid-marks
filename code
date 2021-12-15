@@ -1,0 +1,9 @@
+<?php
+include 'header.php';
+?>
+<body>		
+<div class="wrapper d-flex align-items-stretch">
+<?php 
+include 'sidebar.php';  
+include 'modal.php';
+?>
